@@ -1,0 +1,19 @@
+http://13.232.123.200:8080/
+
+pavanjenkins
+jenkins
+
+
+oracle mail
+ravi.kumar.ravi315@gmail.com
+
+oracle password
+8985616987@rJ
+
+admin	
+jenkins
+7ec5f920b63845969cf7f15074087149
+
+
+jenkins port 8080
+tomcat port 8090
